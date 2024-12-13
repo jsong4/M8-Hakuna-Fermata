@@ -6,7 +6,7 @@
 
 **Music Piece Description:**
 
-Music video and audio file for my song "Recursion Freestyle," with background music created through Sonic Pi and original lyrics created by me.
+This repo contains the music video and audio file for my song "Recursion Freestyle," with background music created through Sonic Pi and original lyrics created by me. The song is intended to be educational and provide a brief introduction to recursion in Computer Science. As you will see in the lyrics, it tells us what recursion is, brings up direct vs. indirect recursion, points out certain applications that often use recursion, and finally explains what makes up a recursive function. It strongly emphasizes the implementation of a base case, so as to not encounter INFINITE LOOPS. Regarding the beat itself, I took some influence from famous rapper Gunna, who often incorporates a melodic tune in his beats. The audio starts off with no drums or snare, just a simple melody, and then jumps into a looping 4-measure beat that layers drums, snares, and the original melody that I created. I hope you enjoy!
 
 
 **Lyrics:**
